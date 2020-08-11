@@ -1,2 +1,2 @@
 # Misc
-Anything worth recording, especially drafts
+Description: Anything worth recording
