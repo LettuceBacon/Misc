@@ -2,4 +2,4 @@
 
 ## Description
 
-Anything worth recording
+Anything worth documenting
